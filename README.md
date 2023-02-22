@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming, technology
 - 🌱 I’m currently learning C#, Python
 - 💞️ I’m looking to collaborate on something fun
-- 📫 How to reach me turtledave501@gmail.com
+- 📫 How to reach me curda.da.2022@ssps.cz
 
 <!---
 turtledave501/turtledave501 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
